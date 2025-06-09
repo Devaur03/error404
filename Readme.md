@@ -2,8 +2,6 @@
 
 A beautifully animated and responsive **404 Error Page** built using **HTML**, **TailwindCSS**, and a **background GIF**. Designed to enhance user experience when navigating to a broken or missing link.
 
-![Preview](pag.gif)
-
 ---
 
 ## 🌐 Live Demo
@@ -47,6 +45,11 @@ cd 404-error-page
 ### 2. Open `index.html`
 Use any browser or live server extension in VS Code to preview it.
 
+
+
+### 2. Paste `[Preview]`
+Use any browser or live server extension in VS Code to preview it.
+![Preview](pag.gif)
 ---
 
 ## 📦 Deployment on Vercel
